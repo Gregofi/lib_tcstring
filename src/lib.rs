@@ -25,6 +25,7 @@ pub use decode::{
 #[macro_use]
 mod macros;
 mod decode;
+mod encode;
 
 mod tests {
     #[test]
